@@ -1,8 +1,10 @@
 ## Hi I'm Steven Harun Samba👋
-<p>I'm a machine learning enjoyer</p>
+<p>I'm a Machine Learning Enthusiast</p>
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,tailwind,php,laravel,scikitlearn,mysql,java,js,ts,react,vue,perl,ruby,html,css,bootstrap,django,flask,tensorflow,c,cpp,dart,flutter,kotlin,swift,postman,selenium,docker,github,git,postman,postgres,linux,angular,next,astro,express,go,dotnet,vscode,mongo,firebase,sqlite,nginx,nodejs" /> <br>
+    <img src="https://skillicons.dev/icons?i=python,php" /> <br>
+    <img src="https://skillicons.dev/icons?i=,css,html,tailwind" /> <br>
+    <img src="https://skillicons.dev/icons?i=,,laravel,flask,selenium" /> <br>
 </div>
 
 </p>
