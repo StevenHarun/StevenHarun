@@ -2,9 +2,16 @@
 <p>I'm a Machine Learning Enthusiast</p>
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,php" />
-    <img src="https://skillicons.dev/icons?i=,css,html,tailwind" />
-    <img src="https://skillicons.dev/icons?i=,,laravel,flask,selenium" />
+    <img src="https://skillicons.dev/icons?i=python,php,scikitlearn,anaconda" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=css,html,tailwind" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=laravel,flask," />
+    <br>
+    <img src="https://skillicons.dev/icons?i=selenium" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
 </div>
 
 </p>
