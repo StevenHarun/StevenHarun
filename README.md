@@ -1,5 +1,5 @@
 ## Hi I'm Steven Harun Samba👋
-<p>I'm a Machine Learning Enthusiast</p>
+<p>Machine Learning Enthusiast | NLP & Computer Vision Learner | Driven by Innovation and Emerging Technologies</p>
 
   <div align="left">
     <img src="https://skillicons.dev/icons?i=python,php,scikitlearn,anaconda" />
