@@ -2,7 +2,7 @@
 <p>Machine Learning Enthusiast | NLP & Computer Vision Learner | Driven by Innovation and Emerging Technologies</p>
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,php,scikitlearn,anaconda" />
+    <img src="https://skillicons.dev/icons?i=python,php,scikitlearn,tensorflow,anaconda" />
     <br>
     <img src="https://skillicons.dev/icons?i=css,html,tailwind" />
     <br>
